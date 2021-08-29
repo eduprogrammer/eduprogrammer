@@ -1,16 +1,19 @@
-### Hi there 👋
+# Eduardo Programador :) 💻
 
-<!--
-**eduprogrammer/eduprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Detetive Profissional
 
-Here are some ideas to get you started:
+- Desenvolvedor Full Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos de Software de alto nível, com ambientes de desenvolvimento Windows, Linux, Mac, Android e IOS.
+
+Contato: consultoria@eduardoprogramador.com
+Site: www.eduardoprogramador.com
+
+![b_mac](https://user-images.githubusercontent.com/61114744/131257524-5aea27ec-14af-42cf-8a57-8e58a05860b0.png)
+
+
+
+
+
+
+
