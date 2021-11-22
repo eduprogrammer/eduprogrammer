@@ -7,7 +7,7 @@
 
 
 
-I am an Android and Windows developer undergratuate in System Analysis at UNOPAR.
+I am an Android and Windows developer undergratuate in System Analysis.
 I have more than 20 apps published at Playstore,
 a lot of Java (.jar) programs published at my site (see below),
 some softwares accepted on Microsoft Store,
@@ -19,20 +19,11 @@ Also, I am a professional detetive in Brazil.
 Site: www.eduardoprogramador.com
 E-mail: consultoria@eduardoprogramador.com
 
-![b_mac](https://user-images.githubusercontent.com/61114744/131257524-5aea27ec-14af-42cf-8a57-8e58a05860b0.png)
-
 # Languages:
 
-- Java
-- C / C++
-- Javascript
-- PHP
-- SQL
-- - HTML
-- Ruby
-- Python
-- R
-- Swift
+- Java - C / C++ - Javascript - PHP - SQL - HTML - Ruby - Python - R - Swift (more...)
+
+Visit my website: https://eduardoprogramador.com
 
 
 
