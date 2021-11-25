@@ -1,24 +1,23 @@
-# Eduardo Programador 💻
+<h1 color="yellow">Eduardo Programador</h1> 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduprogrammer&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+# Activities:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduprogrammer&count_private=true&show_icons=true&theme=dark&hide=issues,contribs,prs)
+1. Software Development
+2. Detetive
+3. Web Design
 
-# What do I do?
+# How to follow or contact me?
 
-- Desenvolvedor de Software
-- Detetive Profissional
-- Web Design
+<a href="https://eduardoprogramador.com"><img src="https://eduardoprogramador.com/img/logo.png" width="50" height="50" title="Website"></a>  <a href="https://instagram.com/eduardo_programador"><img title="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="50" height="50"></a> <a href="https://api.whatsapp.com/send?phone=5581988600704"><img title="Whatsapp" src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" width="50" height="50"></a> <a href="https://play.google.com/store/apps/dev?id=5892494104843420772"><img title="Playstore" src="http://eduardoprogramador.com/img/play_store.png" width="150" height="50"></a> <a href="https://www.microsoft.com/pt-br/search/shop/Apps?q=eduardo+programador"><img title="Microsoft Store" src="http://eduardoprogramador.com/img/store_microsoft.jpg" width="150" height="50"></a>
 
-# How to contact me?
-
-1. Website: www.eduardoprogramador.com
-2. Instagram: https://www.instagram.com/eduardo_programador/ <a href="https://instagram.com/eduardo_programador"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="50" height="50"></a>
-3. Email: consultoria@eduardoprogramador.com
 
 # Languages:
 
 - Java - C / C++ - Javascript - PHP - SQL - HTML - Ruby - Python - R - Swift (more...)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduprogrammer&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduprogrammer&count_private=true&show_icons=true&theme=dark&hide=issues,contribs,prs)
 
 
 
