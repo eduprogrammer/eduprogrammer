@@ -4,26 +4,21 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduprogrammer&count_private=true&show_icons=true&theme=dark&hide=issues,contribs,prs)
 
+# What do I do?
 
+- Desenvolvedor de Software
+- Detetive Profissional
+- Web Design
 
+# How to contact me?
 
-I am an Android and Windows developer undergratuate in System Analysis.
-I have more than 20 apps published at Playstore,
-a lot of Java (.jar) programs published at my site (see below),
-some softwares accepted on Microsoft Store,
-more than 12 web services
-and big data projects.
-
-Also, I am a professional detetive in Brazil.
-
-Site: www.eduardoprogramador.com
-E-mail: consultoria@eduardoprogramador.com
+1. Website: www.eduardoprogramador.com
+2. Instagram: https://www.instagram.com/eduardo_programador/
+3. Email: consultoria@eduardoprogramador.com
 
 # Languages:
 
 - Java - C / C++ - Javascript - PHP - SQL - HTML - Ruby - Python - R - Swift (more...)
-
-Visit my website: https://eduardoprogramador.com
 
 
 
