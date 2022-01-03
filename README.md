@@ -1,5 +1,13 @@
 <h1 color="yellow">Eduardo Programador</h1> 💻
 
+# Assista ao Curso de C / C++ para Iniciantes em Português - Aula Única - Tutorial de Programação
+
+<a href="https://www.youtube.com/watch?v=RUM4XhbWJbA"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/2560px-YouTube_Logo_2017.svg.png" width="350" height="50" title="Website"></a>
+
+# Watch the C / C++ Course to Beginners - Only One Class - Programming Tutorial
+
+<a href="https://www.youtube.com/watch?v=RUM4XhbWJbA"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/2560px-YouTube_Logo_2017.svg.png" width="350" height="50" title="Website"></a>
+
 # Activities:
 
 1. Software Development
@@ -12,14 +20,6 @@
 - Java: Android Programmer and Desktop Programmer (Swing and JavaFX Frameworks)
 - Web Development: HTML, CSS, Javascript, PHP and MySQL
 - Script Programmer: Python, R, Ruby and TCL programmer
-
-# Assista ao Curso de C / C++ para Iniciantes em Português - Aula Única - Tutorial de Programação
-
-<a href="https://www.youtube.com/watch?v=RUM4XhbWJbA"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/2560px-YouTube_Logo_2017.svg.png" width="350" height="50" title="Website"></a>
-
-# Watch the C / C++ Course to Beginners - Only One Class - Programming Tutorial
-
-<a href="https://www.youtube.com/watch?v=RUM4XhbWJbA"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/2560px-YouTube_Logo_2017.svg.png" width="350" height="50" title="Website"></a>
 
 
 # How to follow or contact me?
