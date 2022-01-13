@@ -1,12 +1,5 @@
 <h1 color="yellow">Eduardo Programador</h1> 💻
 
-# Assista ao Curso de Java para Iniciantes em Português - Aula Única - Tutorial de Programação
-
-<a href="https://www.youtube.com/watch?v=6kxCu3QC1xQ"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/2560px-YouTube_Logo_2017.svg.png" width="350" height="50" title="Website"></a>
-
-# Watch the Java Course to Beginners - Only One Class - Programming Tutorial
-
-<a href="https://www.youtube.com/watch?v=6kxCu3QC1xQ"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/2560px-YouTube_Logo_2017.svg.png" width="350" height="50" title="Website"></a>
 
 # Activities:
 
