@@ -1,18 +1,49 @@
 <h1 color="yellow">Eduardo Programador</h1> 💻
 
+# This is my interview questions :)
 
-# Activities:
 
-1. Software Development
-2. Detetive
-3. Web Design
+Programmer Type
 
-# Skills
+( ) FrontEnd <br>
+( ) BackEnd <br>
+(x) FullStack <br><br>
 
-- C / C++: Win32 API, Linux Development, GTK programmer
-- Java: Android Programmer and Desktop Programmer (Swing and JavaFX Frameworks)
-- Web Development: HTML, CSS, Javascript, PHP and MySQL
-- Script Programmer: Python, R, Ruby and TCL programmer
+How I build WebSites
+
+( ) WordPress <br>
+( ) Wix <br>
+(x) HTML <br>
+(x) Javascript <br>
+(x) CSS <br>
+(x) PHP <br><br>
+
+How I Program For Windows Desktop
+
+( ) .Net <br>
+(x) C / C++ <br>
+(x) Win32 API <br>
+( ) C# <br>
+(x) Java <br>
+(x) Java Swing <br>
+(x) JavaFX <br><br>
+
+How I Program for Mobile Devices
+
+(x) Java for Android <br>
+(x) Swift for IOS <br>
+( ) ReactJS <br>
+( ) Flutter <br><br>
+
+What scripting languages do I use
+
+(x) Python <br>
+(x) Ruby <br>
+(x) TCL <br>
+(x) Others <br>
+
+# Also, I am a RaspberryPI lover 
+Give me a PI now! xDDD
 
 
 # How to follow or contact me?
